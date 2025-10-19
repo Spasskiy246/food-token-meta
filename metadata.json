@@ -1,0 +1,22 @@
+{
+  "name": "Food Token",
+  "symbol": "FOOD",
+  "description": "A community-driven meme and utility token that represents food value exchange on Solana.",
+  "image": "https://raw.githubusercontent.com/Spasskiy246/food-token-meta/main/food-token-coin-1024-transparent.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme" },
+    { "trait_type": "Utility", "value": "Food economy" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Spasskiy246/food-token-meta/main/food-token-coin-1024-transparent.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      { "address": "CMfh5MnagVh9vQ3SDWbf7AFVDwifRgZv8dFCVHMuEK6c", "share": 100 }
+    ]
+  }
+}
